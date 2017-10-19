@@ -1,5 +1,5 @@
 Languge: Matlab
-1. Separate audio files with "beep"
-2. Lowpass filter
+
+implement a phase vocoder to slow down the speech to ¾ speed.
 
 
